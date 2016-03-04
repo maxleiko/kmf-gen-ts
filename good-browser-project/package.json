@@ -1,0 +1,23 @@
+{
+  "name": "good-project",
+  "version": "1.0.0",
+  "description": "A KMF generated good-project",
+  "main": "built/org.kevoree.ts",
+  "typings": "built/main/org.kevoree.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "serve": "node node_modules/.bin/webpack-dev-server",
+    "test": "echo \"todo\""
+  },
+  "dependencies": {
+    "kmf": "4.27.0"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-loader": "^0.8.1",
+    "typescript": "^1.8.7",
+    "webpack": "^1.12.14",
+    "webpack-dev-server": "^1.14.1"
+  }
+}

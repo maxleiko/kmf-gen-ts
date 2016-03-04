@@ -5,6 +5,7 @@ var __extends = (this && this.__extends) || function (d, b) {
     d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 };
 var modeling = require('kmf');
+exports.modeling = modeling;
 var KevoreeModel = (function (_super) {
     __extends(KevoreeModel, _super);
     function KevoreeModel(p_manager) {

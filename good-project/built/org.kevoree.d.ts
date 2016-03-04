@@ -1,4 +1,5 @@
 import * as modeling from 'kmf';
+export import modeling = modeling;
 export declare class KevoreeModel extends modeling.abs.AbstractKModel<KevoreeUniverse> {
     private _metaModel;
     constructor(p_manager: modeling.memory.manager.internal.KInternalDataManager);
