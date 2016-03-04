@@ -13,7 +13,7 @@ This will install:
 - typescript
 - ts-loader
 
-Those devDependencies are used by **WebPack** in order to dynamically build the typescript sources and bundle them in one file `dist/bundle.js`
+Those devDependencies are used by **WebPack** in order to dynamically build the typescript sources and bundle them in one file `dist/MyModel.js`
 
 ## Run the dev mode
 ```sh
