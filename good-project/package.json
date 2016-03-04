@@ -1,0 +1,16 @@
+{
+  "name": "good-project",
+  "version": "1.0.0",
+  "description": "A KMF generated good-project",
+  "main": "built/org.kevoree.ts",
+  "typings": "built/main/org.kevoree.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"todo\""
+  },
+  "dependencies": {
+    "kmf": "4.27.0"
+  },
+  "author": "",
+  "license": "MIT"
+}
